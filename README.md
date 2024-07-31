@@ -1,2 +1,1 @@
-# meowifier.plugin
-Meowifier discord plugin
+Compile vencord with this plugin
